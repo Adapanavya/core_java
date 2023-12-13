@@ -11,8 +11,14 @@ method overriding
 method overloading
 https://www.w3schools.com/java/java_inheritance.asp
 
-Object class
----------
- -
- -
- -
+Object
+-----
+- toString
+- equals()
+- hashCode()
+
+Collections:
+-------
+List- dynamic array
+Set- unique array
+Map- key , value pair
