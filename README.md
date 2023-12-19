@@ -22,3 +22,10 @@ Collections:
 List- dynamic array
 Set- unique array
 Map- key , value pair
+
+Method Signature and Calling
+---------
+ accessspecifier retuntype methodName(argumentType variagleName){
+        method body
+                return returnType;
+    }
