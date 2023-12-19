@@ -29,3 +29,15 @@ Method Signature and Calling
         method body
                 return returnType;
     }
+String Class Methods:
+---------------
+toUpper()
+toLower()
+subString()
+charAt()
+concat()
+contains()
+equals()
+isEMpty()
+length()
+isESy
