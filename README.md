@@ -41,3 +41,6 @@ equals()
 isEMpty()
 length()
 isESy
+https://www.tutorialspoint.com/java/lang/java_lang_string.htm
+
+v
